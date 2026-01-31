@@ -1,0 +1,13 @@
+/* css/_variables.css */
+:root {
+    --bg-color: #050507;
+    --surface-color: #0f1014;
+    --surface-hover: #16181d;
+    --text-primary: #ffffff;
+    --text-secondary: #a0a0a5;
+    --accent-primary: #3b82f6; /* Electric Blue */
+    --accent-secondary: #8b5cf6; /* Purple */
+    --accent-glow: rgba(59, 130, 246, 0.5);
+    --transition-speed: 0.3s;
+    --card-border: 1px solid rgba(255, 255, 255, 0.1);
+}
