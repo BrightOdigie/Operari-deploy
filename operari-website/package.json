@@ -1,0 +1,24 @@
+{
+  "name": "operari-website",
+  "version": "1.0.0",
+  "description": "Official website for Operari - AI & Digital Solutions",
+  "main": "index.html",
+  "scripts": [
+    "js/main.js"
+  ],
+  "keywords": [
+    "operari",
+    "ai",
+    "data",
+    "saas",
+    "technology",
+    "enterprise"
+  ],
+  "author": "Operari Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/operari/website.git"
+  }
+}
